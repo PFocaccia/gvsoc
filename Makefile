@@ -15,6 +15,7 @@ TARGETS ?= rv64 \
     snitch \
     ara \
     spatz \
+	quadrilatero \
     snitch:core_type=fast \
     pulp.snitch.snitch_cluster_single \
     chimera \
